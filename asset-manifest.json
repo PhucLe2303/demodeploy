@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/demodeploy/static/css/main.d1b05096.chunk.css",
+    "main.js": "/demodeploy/static/js/main.30be7941.chunk.js",
+    "main.js.map": "/demodeploy/static/js/main.30be7941.chunk.js.map",
+    "runtime-main.js": "/demodeploy/static/js/runtime-main.963aa8c6.js",
+    "runtime-main.js.map": "/demodeploy/static/js/runtime-main.963aa8c6.js.map",
+    "static/js/2.60a61667.chunk.js": "/demodeploy/static/js/2.60a61667.chunk.js",
+    "static/js/2.60a61667.chunk.js.map": "/demodeploy/static/js/2.60a61667.chunk.js.map",
+    "index.html": "/demodeploy/index.html",
+    "precache-manifest.9f0d90a094629c5faa6652572a5dba8d.js": "/demodeploy/precache-manifest.9f0d90a094629c5faa6652572a5dba8d.js",
+    "service-worker.js": "/demodeploy/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/demodeploy/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.60a61667.chunk.js.LICENSE.txt": "/demodeploy/static/js/2.60a61667.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/demodeploy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.963aa8c6.js",
+    "static/js/2.60a61667.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.30be7941.chunk.js"
+  ]
+}
